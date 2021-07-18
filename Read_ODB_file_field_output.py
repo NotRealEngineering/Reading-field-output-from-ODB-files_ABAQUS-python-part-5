@@ -53,4 +53,3 @@ odb.close()
 sortie.close()    
 
 #Property of Not Real Engineering 
-# Author: Shank S. Kulkarni
