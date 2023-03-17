@@ -4,7 +4,7 @@ This is a code I used in following video:
 
 Reading field output data from Abaqus output files using python | Python scripting in Abaqus part-5
 
-Link of video: https://youtu.be/cBJjKHY1jOM
+Link of video: 
 
 Email: notrealengineering@gmail.com
 
